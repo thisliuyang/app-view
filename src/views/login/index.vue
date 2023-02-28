@@ -168,9 +168,9 @@ const systemStore = useSystemStore()
 const t = window['$t']
 
 const formInline = reactive({
-  tenantName: '芋道源码',
-  username: 'admin',
-  password: 'admin123',
+  tenantName: '杨子科技',
+  username: '',
+  password: '',
 })
 
 const rules = {
